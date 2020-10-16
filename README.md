@@ -1,7 +1,7 @@
 
 ## polkadot block info
 
-this script implements the polkadot js api and retrieves block information
+this node script implements the polkadot js api and retrieves block information via command line
 
 ### run command to get the latest block:
 node app.js
